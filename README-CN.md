@@ -1034,7 +1034,6 @@ python run_page/keep_to_strava_sync.py ${your mobile} ${your password} ${client_
 <details>
 <summary>生成数据展示</summary>
 
-<br>
 
 - 生成数据展示 SVG
 - 展示效果：[点击查看](https://raw.githubusercontent.com/yihong0618/running_page/master/assets/github.svg)、[点击查看](https://raw.githubusercontent.com/yihong0618/running_page/28fa801e4e30f30af5ae3dc906bf085daa137936/assets/grid.svg)
